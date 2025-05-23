@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Vashishtha</h1>
-<h3 align="center">A passionate Robotics & Electronics Engineering Student.</h3>
+<h3 align="center">A passionate Robotics & Electronics Engineer.</h3>
 
 - 🔭 I’m currently working on **Robot Operating System and Control Systems**
 
